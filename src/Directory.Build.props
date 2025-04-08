@@ -1,0 +1,5 @@
+<Project>
+	<PropertyGroup Label="Globals">
+		<BaseIntermediateOutputPath>$(MSBuildThisFileDirectory)_Obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>			
+	</PropertyGroup>
+</Project>
